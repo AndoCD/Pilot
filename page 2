@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Pilot Experiment</title>
+  <title>Pilot Experiment Page 2</title>
   </head>
 <body>
 <h1>Will GitHub work for me?</h>
@@ -10,6 +10,6 @@
 very overwhelmed with the amount of new information that I need to take in and the amount of time it is taking me to complete
 simple tasks. I hope that as this course goes on, I will pick up tricks here and there and be able to adapt more quickly. </p>
 
-  <p><a href="/index.html">Index.html or Home Page</a></p>
+  <p><a href="#index.html">Index.html or Home Page</a></p>
 </body>
 </html>
